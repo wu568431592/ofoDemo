@@ -1,0 +1,44 @@
+/* pages/shuruMain/shuruMain.wxss */
+.main{
+  box-sizing: border-box;
+  width:100%;
+  height:100vh;
+  padding:10vh 5vw;
+  text-align: center;
+}
+.main .shuoming{
+  margin-bottom:2vh;
+  font-size: 26px;
+  width:100%;
+}
+.main .notice{
+  font-size:16px;
+  color:#aaa;
+  margin-bottom:3vh;
+}
+.main>input{
+  width:70vw;
+  display: block;
+  margin:0 auto;
+  margin-bottom:3vh;
+  border:1px solid #FFDE24;
+  height:7vh;
+  line-height: 7vh;
+  border-radius:3.5vh;
+  font-size: 16px;
+}
+.main .btn{
+  color:#333;
+  height:7vh;
+  line-height: 7vh;
+  border-radius:3.5vh;
+  font-size: 16px;
+  width:70vw;
+  margin:0 auto;
+  border:1px solid #ccc;
+  background: #ccc;
+}
+.main .btn.active{
+  border:1px solid #FFDE24;
+  background: #FFDE24;
+}

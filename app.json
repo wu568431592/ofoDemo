@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goForBike/goForBike",
+    "pages/myCenter/myCenter",
+    "pages/shuruMain/shuruMain"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFDE24",
+    "navigationBarTitleText": "ofo_demo",
+    "navigationBarTextStyle": "#fff"
+  }
+}

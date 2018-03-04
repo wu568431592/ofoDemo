@@ -1,0 +1,6 @@
+<view class="main">
+  <view class="shuoming">计费说明：1元/小时</view>
+  <view class="notice">请输入车牌号，获取解锁密码</view>
+  <input id="carNumber" type='number' focus='true' placeholder='请输入车牌号' confirm-type="send" bindinput="change" value='{{carNubmer}}'></input>
+  <view class="btn {{active? 'active':''}}" bindtap='beginFun'>立即用车</view>
+</view>

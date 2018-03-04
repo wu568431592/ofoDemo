@@ -1,0 +1,6 @@
+<view class="main">
+  <view class="welcome">欢迎使用ofo</view>
+  <view class='notice'>请规范用车，骑行中不要关闭小程序</view>
+  <view class='btn saoma'bindtap="saomaFun">扫码骑车</view>
+  <view class="btn shuru" bindtap="shuruFun">手动输入车牌号</view>
+</view>

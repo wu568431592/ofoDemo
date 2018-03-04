@@ -1,0 +1,21 @@
+<view class="main">
+  <view class="item">
+    <view class="h4">卡包</view>
+    <view class='notice'>免费剩余骑行<text>0</text>天</view>
+  </view>
+  <view class="item">
+    <view class="h4">余额</view>
+    <view class='notice'><text>0</text>元（其中充值余额<text>0</text>元）</view>
+    <view class="btn active">充值</view>
+  </view>
+  <view class="item">
+    <view class="h4">优惠券</view>
+    <view class='notice'><text>0</text>张</view>
+    <view class="songti"></view>
+  </view>
+  <view class="item">
+    <view class="h4">押金</view>
+    <view class='notice'>已交</view>
+    <view class="btn">退押金</view>
+  </view>
+</view>
